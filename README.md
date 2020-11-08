@@ -63,7 +63,7 @@ The pybullet-robot-envs environments adopt the OpenAI Gym environment interface,
 2. Install **git lfs** by following instructions here: [git-lfs.github.com](https://git-lfs.github.com/).
 3. Clone the repository:
     ```
-    $ git clone https://github.com/robotology-playground/pybullet-robot-envs.git
+    $ git clone git@github.com:a-nooj/pybullet-robot-envs.git
     $ cd pybullet-robot-envs
     ```
 4. Install the dependencies necessary to run and test the environments with PyBullet:
